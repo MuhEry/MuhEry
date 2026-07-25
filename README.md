@@ -9,7 +9,7 @@
 
 | 🕹️ Proje | 🧩 Açıklama | 🛠️ Teknolojiler |
 |:--|:--|:--|
-| [**Anti Coopers**](https://github.com/MuhEry/Anti-Coopers) | 2-8 Kişilik mini oyunlar odaklı parti oyunu | Unity, C# |
+| [**Anti Coopers**](https://github.com/MuhEry/Anti-Coopers) | PC ve mobil çapraz platform oynanabilen 2-8 kişilik parti oyunu | Unity Relay, Netcode |
 | [**Prison Protocol**](https://github.com/MuhEry/Prison-Protocol) | Hikâye Odaklı İnteraktif Simülasyon Oyunu. Çizimler **Krita** ile hazırlandı. | Unity, C#, Krita |
 | [**Defective Rob**](https://github.com/MuhEry/Defective-Rob) | 2.5D Aksiyon Platformer oyunu. | Unity, C# |
 | [**Bootcamp Ulak Oyunu**](https://github.com/MuhEry/Bootcamp) | **Google Yapay Zeka ve Oyun Akademisi** kapsamında yaptığım bootcamp oyun projesi. | Unity, C#, Blender |
