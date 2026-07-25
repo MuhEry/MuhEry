@@ -2,10 +2,6 @@
 
 <h2 align="left">🎮 <b>Oyun geliştirme</b> alanıyla ilgileniyorum<br>
 
-<img src="https://skillicons.dev/icons?i=unity" width="22"/> <b>Unity</b> ve 
-<img src="https://skillicons.dev/icons?i=cs" width="22"/> <b>C#</b> kullanarak etkileşimli hikâyeler, oyun mekanikleri ve atmosferik deneyimler oluşturmayı seviyorum.<br>
-Yeni fikirler denemek, küçük ama anlamlı projeler geliştirmek ve oyunlarla vakit geçirmek benim için bir tutku.
-</h2>
 
 ---
 
